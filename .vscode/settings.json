@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.clang_format_fallbackStyle": "LLVM",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "files.associations": {},
+}
