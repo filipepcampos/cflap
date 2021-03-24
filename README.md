@@ -8,7 +8,7 @@ Project developed for LCOM, developed by Filipe Campos and [Francisco Cerqueira]
 
 **Course link**: [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459473)
 
-**Project grade**: 19.01
+**Project grade**: 19.49
 
 **Video**: [Click here](https://www.youtube.com/watch?v=e80UkynnB9A)
 
