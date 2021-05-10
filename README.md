@@ -1,6 +1,11 @@
 # cflap
 Project developed for LCOM, developed by Filipe Campos and [Francisco Cerqueira](https://github.com/xico2001pt)
 
+![Title Screen](/docs/images/title.png)
+
+![Canvas](/docs/images/canvas.png)
+
+
 ## Information
 **Date**: 2nd Year, 1nd Semester (2020/2021)
 
